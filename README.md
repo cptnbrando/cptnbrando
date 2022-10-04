@@ -1,3 +1,16 @@
-- 👋 Hi, I’m @cptnbrando
-- 👀 I’m interested in the world
-- 🌱 I’m currently learning Spring MVC/ORM/AOC/Web/Boot, Hibernate
+- 👋 Hi, I’m Captain Brando!
+- 🌍 I’m interested in the world and the people and the rice crispy treats
+- 🌴 I’m currently developing/supporting full-stack applications
+- ⚒️ My Toolkit:
+  - Spring MVC/AOP/Boot
+  - AWS EC2/RDS
+  - Angular 12+
+  - Svelte.js + Vite + Typescript (godstack 💯)
+  - React + React Native
+  - Docker 12+, Kubernetes
+  - SQL (PostgreSQL/OracleDB)
+  - REST/SOAP
+- API Experience
+  - 🎶 Spotify - Created visualizers, players, and live listening capabilities
+  - 🔎 Google - Docs and Drive used for dynamic blogs and user web interactivity
+  - ⚡ Arc + Connect - Created backend electrical utility manager
